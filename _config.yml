@@ -29,6 +29,8 @@ description: >-
 
   OK, let me explain — I’m a scientist working at the intersection of computer graphics, computer vision, and machine learning, with a particular obsession for 3D faces. My PhD focuses on reconstructing 3D faces from arbitrary videos or images, and then bringing them to life through animation.  
 
+
+
   In particular in my research I focused on the *perceptual quality* of these reconstructions and animation — that is, how real or emotionally convincing they feel to us humans. 
   After all, we want the future generations of AI to have a face that we can relate to, right?
   (I mean, we’re not there yet, but I’m working on it.)
