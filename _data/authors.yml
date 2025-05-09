@@ -1,0 +1,130 @@
+radekdanecek:
+  first_name: Radek
+  last_name: Daněček
+  website: https://radekd91.github.io
+  is_me: true
+
+michaelblack:
+  first_name: Michael
+  last_name: Black
+  website: https://is.mpg.de/person/black
+
+timobolkart:
+  first_name: Timo
+  last_name: Bolkart
+  website: https://sites.google.com/site/bolkartt/
+
+georgeretsinas:
+  first_name: George
+  last_name: Retsinas
+  website: https://georgeretsi.github.io/
+  
+
+panagiotisfilntisis:
+  first_name: Panagiotis
+  last_name: Filntisis
+  website: https://filby89.github.io/
+
+nikosathanasiou:
+  first_name: Nikos
+  last_name: Athanasiou
+  website: https://atnikos.github.io/
+
+anastasiosroussos:
+  first_name: Anastasios
+  last_name: Roussos
+  website: https://users.ics.forth.gr/~troussos/
+
+petrosmaragos:
+  first_name: Petros
+  last_name: Maragos
+  website: https://scholar.google.com/citations?user=A2XydgGCY9gC&hl=en
+
+carolinschmitt:
+  first_name: Carolin
+  last_name: Schmitt
+  website: https://is.mpg.de/person/cschmitt
+
+senyapolikovsky:
+  first_name: Senya
+  last_name: Polikovsky
+  website: https://is.mpg.de/person/senya
+
+kiranchhatre:
+  first_name: Kiran
+  last_name: Chhatre
+  website: https://chhatrekiran.github.io/
+
+shashanktripathi:
+  first_name: Shashank
+  last_name: Tripathi
+  website: https://sha2nkt.github.io/
+
+yaowen:
+  first_name: Yandong
+  last_name: Wen
+  website: https://ydwen.github.io/
+
+victoriabrevraya:
+  first_name: Victoria
+  last_name: Abrevaya Fernandez
+  website: https://vabrevaya.github.io/
+
+chrispeters:
+  first_name: Chris
+  last_name: Peters
+  website: https://www.kth.se/profile/chpeters
+
+giorgobecherini:
+  first_name: Giorgo
+  last_name: Becherini
+  website: https://is.mpg.de/ps/person/gbecherini
+
+endridibra: 
+  first_name: Endri
+  last_name: Dibra
+
+cengizoztireli: 
+  first_name: Cengiz
+  last_name: Oztireli
+  website: https://www.cst.cam.ac.uk/people/aco41
+
+remoziegler: 
+  first_name: Remo
+  last_name: Ziegler
+  website: https://scholar.google.ch/citations?user=oGWUSiwAAAAJ&hl=en
+
+markusgross: 
+  first_name: Markus
+  last_name: Gross
+  website: https://inf.ethz.ch/de/personen/person-detail.mgross.html
+
+# rajabala:
+#   first_name: Raja
+#   last_name: Bala
+#   website: https://www.linkedin.com/in/rajabala/
+
+# hirotakeda:
+#   first_name: Hiro
+#   last_name: Takeda
+#   website: https://www.linkedin.com/in/hiro-takeda/
+
+# brandonsmith:
+#   first_name: Brandon
+#   last_name: Smith
+#   website: https://www.linkedin.com/in/brandon-smith-phd/
+
+# thabobeeler:
+#   first_name: Thabo
+#   last_name: Beeler
+#   website: https://disneyresearch.zhdk.ch/people/thabo-beeler/
+
+# derekbradley:
+#   first_name: Derek
+#   last_name: Bradley
+#   website: https://disneyresearch.zhdk.ch/people/derek-bradley/
+
+# jirimatas:
+#   first_name: Jiří
+#   last_name: Matas
+#   website: https://cmp.felk.cvut.cz/~matas/

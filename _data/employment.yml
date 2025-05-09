@@ -1,0 +1,61 @@
+- company: Amazon
+  description: >-
+    Part-time Research Intern at Amazon Tübingen. Extension a research project from a previous internship.
+    Led by Raja Bala, Hiro Takeda, and Brandon Smith.
+  dates: "Dec 2024 - Present"
+  location: Tübingen, Germany
+
+- company: Amazon
+  description: >-
+    Research Intern in the field of 3D speech-driven avatars.  
+    Led by Raja Bala, Hiro Takeda, and Brandon Smith.
+  dates: "Nov 2023 - Aug 2024"
+  location: Sunnyvale, CA, USA
+
+- company: Max Planck Institute for Intelligent Systems
+  description: >-
+    Researcher / Ph.D. Candidate in the Perceiving Systems Department.  
+    Research in computer vision, machine learning, and computer graphics, with emphasis on human faces.  
+    Advised by Michael J. Black and Timo Bolkart.
+  dates: "Nov 2020 - Present"
+  location: Tübingen, Germany
+
+- company: ETH Zurich / Arbrea Labs
+  description: >-
+    Research Assistant in a joint program between ETH Zurich and Arbrea Labs.  
+    Developed augmented reality software for cosmetic surgery preview.
+  dates: "May 2019 - Aug 2020"
+  location: Zurich, Switzerland
+
+- company: Disney Research
+  description: >-
+    Research Associate working on high-fidelity face capture using deep learning.  
+    Led by Thabo Beeler and Derek Bradley.
+  dates: "Mar 2018 - Mar 2019"
+  location: Zurich, Switzerland
+
+- company: Vizrt Switzerland
+  description: >-
+    Software Engineer working on object tracking and deep learning-based systems.  
+    Also previously an intern focused on player detection and tracking for sports broadcasting.
+  dates: "Jan 2017 - Aug 2017"
+  location: Zurich, Switzerland
+
+- company: ETH Zurich
+  description: >-
+    Research Assistant working on publication and extension of Master’s thesis.
+  dates: "Sep 2016 - Nov 2016"
+  location: Zurich, Switzerland
+
+- company: Vizrt Switzerland
+  description: >-
+    Software Engineering Intern. Worked on real-time player detection and tracking.
+  dates: "Aug 2015 - Feb 2016"
+  location: Zurich, Switzerland
+
+- company: CTU Prague - Center for Machine Perception
+  description: >-
+    Research Intern. Worked on feature detector implementation and evaluation in C/C++ and Matlab.  
+    Supervised by Prof. Jiří Matas.
+  dates: "Jul 2012 - Jun 2014"
+  location: Prague, Czech Republic

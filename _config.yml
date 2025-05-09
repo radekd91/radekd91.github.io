@@ -1,0 +1,85 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Radek Daněček
+name: Radek Daněček
+position: Research Scientist 
+email: danekradek@gmail.com
+description: >-
+description: >-
+  Hi, my name is Radek and I’m an expert in making emotional faces.
+
+
+
+  OK, let me explain — I’m a scientist working at the intersection of computer graphics, computer vision, and machine learning, with a particular obsession for 3D faces. My PhD focuses on reconstructing 3D faces from arbitrary videos or images, and then bringing them to life through animation.  
+
+  I care deeply about the *perceptual quality* of these reconstructions — that is, how real or emotionally convincing they feel to us humans.
+
+
+
+  I’m currently wrapping up my PhD at the Perceiving Systems department of the Max Planck Institute for Intelligent Systems in Tübingen, Germany, where I’m fortunate to be supervised by [Michael Black](https://is.mpg.de/ps/person/black) and [Timo Bolkart](https://sites.google.com/site/bolkartt/).
+
+
+
+  Along the way, I’ve had the pleasure of spending time at Amazon, Trinity College Dublin, and BarcelonaTech.  
+
+  Before that, I worked with Disney Research Zurich on 3D face capture, and with Vizrt Switzerland on human tracking for sports broadcasting.
+
+
+
+  I hold a Master’s degree in Visual Computing from ETH Zurich and a Bachelor’s in Computer Science from the Czech Technical University. 
+
+
+
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://radekd91.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: DanecekRadek
+github_username: radekd91
+google_scholar: 20z95oQAAAAJ
+google_analytics: G-T2N62N0GTY
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+sass:
+  style: compact
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

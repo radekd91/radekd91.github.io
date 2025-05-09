@@ -1,0 +1,92 @@
+- id: thunder
+  title: "THUNDER: Supervising 3D Talking Head Avatars with Analysis-by-Audio-Synthesis"
+  venue: arXiv, 2025
+  description: "Introduces a new form of audio-based self-supervision for 3D talking head avatars."
+  project_page: https://thunder.is.tue.mpg.de/
+  arxiv: 2504.13386 
+  image: thunder_before.png
+  # image_mouseover: thunder_after.png
+  authors:
+    - radekdanecek
+    - carolinschmitt
+    - senyapolikovsky
+    - michaelblack
+
+- id: smirk
+  title: "SMIRK: 3D Facial Expressions through Analysis-by-Neural-Synthesis"
+  venue: CVPR, 2024
+  description: "Uses neural rendering to reconstruct highly accurate 3D facial expressions."
+  project_page: https://georgeretsi.github.io/smirk/
+  arxiv: 2404.04104
+  image: smirk_before.png
+  # image_mouseover: smirk_after.png
+  authors:
+    - georgeretsinas
+    - panagiotisfilntisis
+    - radekdanecek
+    - victoriabrevraya
+    - anastasiosroussos
+    - timobolkart
+    - petrosmaragos
+
+- id: amuse
+  title: "Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion"
+  venue: CVPR, 2024
+  description: "Generates emotional co-speech 3D gestures using diffusion models."
+  project_page: https://amuse.is.tue.mpg.de/
+  arxiv: 2312.04466
+  image: amuse_before.gif
+  # image_mouseover: amuse_after.gif
+  authors:
+    - kiranchhatre
+    - radekdanecek
+    - nikosathanasiou
+    - giorgobecherini
+    - chrispeters
+    - michaelblack
+    - timobolkart
+
+
+- id: emote
+  title: "EMOTE: Emotional Speech-Driven Animation with Content-Emotion Disentanglement"
+  venue: SIGGRAPH Asia, 2023
+  description: "Animates 3D faces with speech while controlling the emotion the animated face communicates."
+  project_page: https://emote.is.tue.mpg.de/
+  arxiv: 2306.08990
+  image: emote_before.gif
+  # image_mouseover: emote_after.gif
+  authors:
+    - radekdanecek
+    - kiranchhatre
+    - shashanktripathi
+    - yaowen
+    - michaelblack
+    - timobolkart
+
+- id: emoca
+  title: "EMOCA: Emotion Driven Monocular Face Capture and Animation"
+  venue: CVPR, 2022
+  description: "Reconstructs highly emotional faces from in-the-wild monocular images."
+  project_page: https://emoca.is.tue.mpg.de/
+  arxiv: 2204.11312
+  image: mrbean_fig.gif
+  # image_mouseover: mrbean_fig.gif
+  authors:
+    - radekdanecek
+    - michaelblack
+    - timobolkart
+
+- id: deepgarment
+  title: "DeepGarment: 3D Garment Shape Estimation from a Single Image"
+  venue: EuroGraphics, 2017
+  description: "Uses CNNs to estimate 3D shape of garments from a single image."
+  project_page: https://cgl.ethz.ch/Downloads/Publications/Papers/2017/Dib17a/Dib17a.pdf
+  # arxiv: 
+  image: deepgarment.png
+  # image_mouseover: deepgarment.png
+  authors:
+    - radekdanecek
+    - endridibra
+    - cengizoztireli
+    - remoziegler
+    - markusgross
